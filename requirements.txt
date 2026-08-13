@@ -8,3 +8,6 @@ websockets==16.1.1
 wheel==0.47.0
 wrapt==2.2.2
 opencv-python-headless
+tensorflow==2.20.0
+keras==3.11.3
+
