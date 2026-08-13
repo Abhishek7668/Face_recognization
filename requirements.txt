@@ -1,0 +1,9 @@
+tzdata==2026.3
+ultralytics==8.4.106
+ultralytics-thop==2.0.21
+urllib3==2.7.0
+uvicorn==0.52.0
+watchdog==6.0.0
+websockets==16.1.1
+wheel==0.47.0
+wrapt==2.2.2
