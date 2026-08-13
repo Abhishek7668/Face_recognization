@@ -40,7 +40,7 @@ narwhals==2.24.0
 networkx==3.6.1
 numpy==2.5.1
 nvidia-ml-py==13.610.43
-opencv-python==4.10.0.84
+opencv-python-headless
 opt_einsum==3.4.0
 optree==0.19.1
 packaging==26.2
